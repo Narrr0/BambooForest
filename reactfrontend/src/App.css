@@ -1,0 +1,29 @@
+body{
+  background-color:seagreen;
+}
+.title{
+  margin:4rem;
+  font-family: "굴림";
+  font-style: oblique;
+  font-size: 40px;
+  font-weight: 1000;
+  text-align: center;
+  color:white;
+}
+.MyPaper{
+  padding: 1rem 2rem 1rem 2rem;
+  margin: 2rem;
+}
+.PostingForm{
+  display:flex;
+  flex-direction: column;
+}
+.PostingTitle{
+  margin-bottom:10px;
+}
+.Buttons{
+  margin-top:10px;
+  margin-left:auto;
+  margin-right:0;
+  text-align:right;
+}
